@@ -1,0 +1,17 @@
+body {
+background-color: black;
+color: antiquewhite;
+font-family: "Quicksand", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 500px;
+margin: 0%;
+}
+
+button{
+background-color: red;
+color: white;
+font-family: "Quicksand", sans-serif;
+
+}
